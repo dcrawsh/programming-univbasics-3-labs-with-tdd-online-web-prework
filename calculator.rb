@@ -1,3 +1,3 @@
 # Add your variables here
 first_number = 1 
-second
+second_number = 2 
